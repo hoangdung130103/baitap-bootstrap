@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#menu{
+    max-width: 1440px;
+}
+.menu-2>li{
+    color: #009688;
+}
+.footer{
+    background-color: black;
+    color:aliceblue;
+}
+
+.footer2-5 ul{
+    color: #6c757d!important;
+    display: flex;
+}
+
+.footer2-5 li{
+    margin-right: 23px;
+}
+html a{
+    color: #009688;
+}
+#menu-nav{
+  margin-left: 20px;
+}
+.best-seller{
+line-height: 23px;
+position: absolute;
+top: 10px;
+right: 46px;
+background-color: orange;
+border-radius: 28px;
+font-size: 11px;
+padding: 0 8px 0 8px;
+width: 76px;
+text-align: center;
+font-weight: 600;
+height: 24px;
+}
